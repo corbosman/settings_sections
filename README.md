@@ -23,7 +23,7 @@ Then set a label key for your section. This key refers to an entry in your local
 
 If you want your section to have a header, set the header boolean to true. This will include a template with the name of your section at the very top of this section's preferences page. See skins/larry/templates/header.html.sample.
 
-To give your section an icon you have to set up a css file. See skins/larry/settings_sections.css as an example.
+To give your section an icon you have to set up a css file. See skins/larry/settings_sections.css.sample as an example.
 
 CONTACT
 -------
