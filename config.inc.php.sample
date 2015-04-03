@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * here you set up the sections you'd like you add.
+ *
+ * for each section you add an array with two elements.
+ *
+ * label contains the localization string for your section
+ * header is a boolean in case you'd like your section to contain a header.
+ */
+
+$rcmail_config['settings_sections'] = array(
+    'foo' => array(
+        'label' => 'mysection',
+        'header' => false
+    ),
+    'bar' => array(
+        'label' => 'secondsection',
+        'header' => true
+    )
+);
+

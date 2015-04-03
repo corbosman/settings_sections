@@ -1,0 +1,9 @@
+/* if you want your section to have an icon, set the icon here */
+
+#sections-table #rcmrowfoo td.section {
+    background-position: 6px -862px;;
+}
+
+#sections-table #rcmrowfoo.selected td.section {
+    background-position: 6px -886px;
+}

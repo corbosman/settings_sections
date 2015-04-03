@@ -1,0 +1,7 @@
+<h1>This is my new section<h1>
+
+Here you can add some description of your section.
+
+For localization you can use the normal roundcube markup
+
+<roundcube:label name="settings_sections.mylabel" />

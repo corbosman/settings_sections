@@ -1,0 +1,3 @@
+<?php
+$labels['mysection'] = 'My Section';
+$labels['secondsection'] = 'My Second Section';
