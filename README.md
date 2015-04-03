@@ -1,4 +1,4 @@
-settings_section
+settings_sections
 =================
 
 With this plugin you create extra sections in your settings menu
