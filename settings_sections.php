@@ -53,7 +53,7 @@ class settings_sections extends rcube_plugin
         foreach ($sections as $section => $options) {
             $args['list'][$section] = array(
                 'id' => $section,
-                'section' => Q($this->gettext($options['label']))
+                'section' => rcube::Q($this->gettext($options['label']))
             );
         }
 
